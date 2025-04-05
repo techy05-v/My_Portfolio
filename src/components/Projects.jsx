@@ -60,7 +60,7 @@ const Projects = () => {
     {
       title: "E-commerce Website",
       description: "A full-stack e-commerce platform with authentication, payments, and product listings.",
-      image: "src/assets/p1.png",
+      image: "https://res.cloudinary.com/dnxvyozo1/image/upload/v1743841891/Screenshot_2025-03-17_115750_lovrn6.png",
       technologies: ["React", "Node.js", "MongoDB", "RazorPay","Express","Tailwind","JavaScript"],
       demoLink: "https://example.com",
       codeLink: "https://github.com/yourusername/project",
@@ -68,7 +68,7 @@ const Projects = () => {
     {
       title: "Learning Management System",
       description: "A Learning Management System (LMS) built using React and Tailwind CSS provides an interactive and responsive platform for managing online courses, students, and instructors.",
-      image: "src/assets/p2.png",
+      image: "https://res.cloudinary.com/dnxvyozo1/image/upload/v1743841899/edemy_image_2_niut2o.png",
       technologies: ["React", "Redux", "cloundinary", "Tailwind CSS","clerk"],
       demoLink: "https://example.com",
       codeLink: "https://github.com/techy05-v/LMS.git",
@@ -76,7 +76,7 @@ const Projects = () => {
     {
       title: "Crypto Tracker",
       description: "A Crypto Tracker built with React and Tailwind CSS allows users to monitor real-time cryptocurrency prices, trends, and market data..",
-      image: "src/assets/p3.png",
+      image: "https://res.cloudinary.com/dnxvyozo1/image/upload/v1743841909/Screenshot_2025-03-14_203156_vv1rtt.png",
       technologies: ["JavaScript", "OpenCrypto API", "Chart.js", "CSS Grid"],
       demoLink: "https://example.com",
       codeLink: "https://github.com/yourusername/project",
